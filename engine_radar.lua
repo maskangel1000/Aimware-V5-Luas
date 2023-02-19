@@ -15,6 +15,7 @@ local function OnDraw()
 	end
 
 	local players = entities.FindByClass("CCSPlayer")
+	local player
 	for i=1, #players do
 		player = players[i]
 		player:SetProp("m_bSpotted", isEngineRadar)
