@@ -1,4 +1,7 @@
 --[[
+    * Credit to "Visible Only ESP" by Verieth on Aimware forums
+    * Most of the drawESP function is made by him
+
 	Visuals > ESP On Spotted
 ]]
 
